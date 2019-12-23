@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Residência de Software\Matérias\C#\Aplicação1\Aplicação1\bin\Debug\netcoreapp3.1\Aplicação1.exe
+C:\Users\User\Documents\Residência de Software\Matérias\C#\Aplicação1\Aplicação1\bin\Debug\netcoreapp3.1\Aplicação1.deps.json
+C:\Users\User\Documents\Residência de Software\Matérias\C#\Aplicação1\Aplicação1\bin\Debug\netcoreapp3.1\Aplicação1.runtimeconfig.json
+C:\Users\User\Documents\Residência de Software\Matérias\C#\Aplicação1\Aplicação1\bin\Debug\netcoreapp3.1\Aplicação1.runtimeconfig.dev.json
+C:\Users\User\Documents\Residência de Software\Matérias\C#\Aplicação1\Aplicação1\bin\Debug\netcoreapp3.1\Aplicação1.dll
+C:\Users\User\Documents\Residência de Software\Matérias\C#\Aplicação1\Aplicação1\bin\Debug\netcoreapp3.1\Aplicação1.pdb
+C:\Users\User\Documents\Residência de Software\Matérias\C#\Aplicação1\Aplicação1\obj\Debug\netcoreapp3.1\Aplicação1.csprojAssemblyReference.cache
+C:\Users\User\Documents\Residência de Software\Matérias\C#\Aplicação1\Aplicação1\obj\Debug\netcoreapp3.1\Aplicação1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Residência de Software\Matérias\C#\Aplicação1\Aplicação1\obj\Debug\netcoreapp3.1\Aplicação1.AssemblyInfo.cs
+C:\Users\User\Documents\Residência de Software\Matérias\C#\Aplicação1\Aplicação1\obj\Debug\netcoreapp3.1\Aplicação1.dll
+C:\Users\User\Documents\Residência de Software\Matérias\C#\Aplicação1\Aplicação1\obj\Debug\netcoreapp3.1\Aplicação1.pdb
